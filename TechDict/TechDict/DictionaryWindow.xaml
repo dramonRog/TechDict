@@ -1,0 +1,32 @@
+﻿<Window x:Class="TechDict.DictionaryWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Dictionary" Height="400" Width="500"
+        WindowStartupLocation="CenterOwner"
+        ResizeMode="CanResizeWithGrip">
+
+    <Window.Background>
+        <ImageBrush ImageSource="/background.jpg" Stretch="UniformToFill"/>
+    </Window.Background>
+    
+    <DockPanel Background="White" Margin="10">
+
+        <!-- Top button panel -->
+        <StackPanel Orientation="Horizontal" DockPanel.Dock="Top" Margin="0,0,0,10">
+            <Button Content="Add Word" Width="100" Margin="0,0,10,0" Click="AddWord_Click"/>
+            <Button Content="Save Selected" Width="120" Click="SaveDictionary_Click"/>
+            <Button Content="Delete Selected" Width="120" Click="DeleteSelected_Click" Margin="10,0,0,0"/>
+        </StackPanel>
+
+        <!-- Main content: List -->
+        <ListView x:Name="WordsListView" FontSize="16">
+            <ListView.View>
+                <GridView>
+                    <GridViewColumn Header="Word" Width="200" DisplayMemberBinding="{Binding Word}" />
+                    <GridViewColumn Header="Translation" Width="200" DisplayMemberBinding="{Binding Translation}" />
+                </GridView>
+            </ListView.View>
+        </ListView>
+
+    </DockPanel>
+</Window>

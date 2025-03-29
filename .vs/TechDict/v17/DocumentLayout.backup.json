@@ -1,0 +1,98 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\roman\\Desktop\\TechDict - Copy\\TechDict\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{278118CC-AC2B-4FC0-8FB0-45603AAB4087}|TechDict\\TechDict.csproj|c:\\users\\roman\\desktop\\techdict - copy\\techdict\\techdict\\dictionarywindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{278118CC-AC2B-4FC0-8FB0-45603AAB4087}|TechDict\\TechDict.csproj|solutionrelative:techdict\\dictionarywindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{278118CC-AC2B-4FC0-8FB0-45603AAB4087}|TechDict\\TechDict.csproj|c:\\users\\roman\\desktop\\techdict - copy\\techdict\\techdict\\flashcards.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{278118CC-AC2B-4FC0-8FB0-45603AAB4087}|TechDict\\TechDict.csproj|solutionrelative:techdict\\flashcards.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{278118CC-AC2B-4FC0-8FB0-45603AAB4087}|TechDict\\TechDict.csproj|c:\\users\\roman\\desktop\\techdict - copy\\techdict\\techdict\\data\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{278118CC-AC2B-4FC0-8FB0-45603AAB4087}|TechDict\\TechDict.csproj|solutionrelative:techdict\\data\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{278118CC-AC2B-4FC0-8FB0-45603AAB4087}|TechDict\\TechDict.csproj|c:\\users\\roman\\desktop\\techdict - copy\\techdict\\techdict\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{278118CC-AC2B-4FC0-8FB0-45603AAB4087}|TechDict\\TechDict.csproj|solutionrelative:techdict\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DictionaryWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\roman\\Desktop\\TechDict - Copy\\TechDict\\TechDict\\DictionaryWindow.xaml.cs",
+              "RelativeDocumentMoniker": "TechDict\\DictionaryWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\roman\\Desktop\\TechDict - Copy\\TechDict\\TechDict\\DictionaryWindow.xaml.cs",
+              "RelativeToolTip": "TechDict\\DictionaryWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T12:49:13.298Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\roman\\Desktop\\TechDict - Copy\\TechDict\\TechDict\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "TechDict\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\roman\\Desktop\\TechDict - Copy\\TechDict\\TechDict\\MainWindow.xaml*",
+              "RelativeToolTip": "TechDict\\MainWindow.xaml*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-02T11:53:08.374Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DataBase.cs",
+              "DocumentMoniker": "C:\\Users\\roman\\Desktop\\TechDict - Copy\\TechDict\\TechDict\\Data\\DataBase.cs",
+              "RelativeDocumentMoniker": "TechDict\\Data\\DataBase.cs",
+              "ToolTip": "C:\\Users\\roman\\Desktop\\TechDict - Copy\\TechDict\\TechDict\\Data\\DataBase.cs",
+              "RelativeToolTip": "TechDict\\Data\\DataBase.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwCIAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T13:21:25.18Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FlashCards.xaml",
+              "DocumentMoniker": "C:\\Users\\roman\\Desktop\\TechDict - Copy\\TechDict\\TechDict\\FlashCards.xaml",
+              "RelativeDocumentMoniker": "TechDict\\FlashCards.xaml",
+              "ToolTip": "C:\\Users\\roman\\Desktop\\TechDict - Copy\\TechDict\\TechDict\\FlashCards.xaml*",
+              "RelativeToolTip": "TechDict\\FlashCards.xaml*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-23T19:19:11.39Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
